@@ -1,0 +1,170 @@
+[33mcommit 8e75f16e82ffbf3a2ff3e6dd6db53ef09483f3ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: “Grace <gcmwega09@gmail.com>
+Date:   Thu Sep 12 01:48:17 2024 +0300
+
+    working with pandas
+
+[33mcommit 627f0dd5d52ac0e1ce964edbff756ff5e31703be[m
+Author: Jeffrey Hinkle <cheffreyh@gmail.com>
+Date:   Wed Aug 30 10:18:24 2023 -0400
+
+    Updating requirements
+
+[33mcommit 07d2cdb69979e33cd6ec4c71bfa363aac9260e14[m
+Author: Jeffrey Hinkle <cheffreyh@gmail.com>
+Date:   Fri Aug 25 12:27:27 2023 -0400
+
+    Adding files via FIS actions updater script
+
+[33mcommit bf654f8580beba944d3005a50d4023f8cc641b4d[m
+Author: Jeffrey Hinkle <cheffreyh@gmail.com>
+Date:   Mon Aug 21 16:25:12 2023 -0400
+
+    removed dsc-github-actions-files
+
+[33mcommit 6c79c72126a6d139fc693321a5dcfa69ba674e07[m
+Author: runner <runner@Mac-1690816735272.local>
+Date:   Mon Jul 31 15:20:27 2023 +0000
+
+    syncing changes across branches
+
+[33mcommit 4b9b73f932e478e720f79eec66eb58e21146712c[m
+Author: hoffm386 <erinrhof@uw.edu>
+Date:   Mon Aug 1 13:54:08 2022 -0400
+
+    fix objectives spacing
+
+[33mcommit 62670aa66414427495c062b1d2b15f5a6d9031a9[m
+Author: hoffm386 <erinrhof@uw.edu>
+Date:   Mon Apr 12 18:14:16 2021 -0400
+
+    formatting tweaks and solution adjustments
+
+[33mcommit 2c18602a6b0f4ecf73ca1d41593089f2e4780acf[m
+Author: rafa <rafael.carrasco@flatironschool.com>
+Date:   Tue Sep 22 20:20:07 2020 +0000
+
+    removed file.py
+
+[33mcommit 1553082ca992cf31bdba4ee196f6cc933dcba076[m
+Author: rafa <rafael.carrasco@flatironschool.com>
+Date:   Tue Sep 22 20:19:15 2020 +0000
+
+    committing test
+
+[33mcommit 77638d2ea269172ab4a0da0eefcd0bed2357d60b[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Tue Feb 11 09:22:41 2020 -0500
+
+    Merge pull request #2 from learn-co-curriculum/v2-1
+    
+    update learning goals
+
+[33mcommit 003654cc272fb16a14548565ff6d3124ec7ac2a7[m
+Author: Sumedh <sumedhpanchadhar@gmail.com>
+Date:   Tue Oct 15 09:57:05 2019 -0400
+
+    Merge pull request #2 from learn-co-curriculum/v2-1
+    
+    update learning goals
+
+[33mcommit c2fcbe288c5e2e577a6b91aa79c3d9b80359c56f[m
+Author: Matt Stetz <mattstetz@gmail.com>
+Date:   Tue Oct 8 16:39:32 2019 -0400
+
+    redeploy
+
+[33mcommit 322b6e8d47f08a59b6dffdca70810bd77e42a8e9[m
+Author: Matt Stetz <mattstetz@gmail.com>
+Date:   Tue Oct 8 10:23:04 2019 -0400
+
+    deploy grammar edits
+
+[33mcommit d64b0a778f2183a939c1a380dd01995b1390ae8d[m
+Author: Sumedh <sumedhpanchadhar@gmail.com>
+Date:   Tue Sep 24 11:43:16 2019 -0400
+
+    Merge pull request #1 from learn-co-curriculum/copy-edits
+    
+    Copy edits
+
+[33mcommit bea01387fe39e3a7860d305e01266cfdaf3cf2e2[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Tue Jul 30 19:20:43 2019 -0400
+
+     ALERT: Cell Mismatch. Auto-create curriculum branch from solution + master
+
+[33mcommit a6b3a3ffaf7d18fb7179473b484e5aaa94c962db[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Wed Mar 20 22:58:35 2019 -0400
+
+    summary added
+
+[33mcommit 8b6b7a14c3a41a54feaaee17be0de6bd28fb26c7[m
+Author: matthew.mitchell <matt.mitchell@flatironschool.com>
+Date:   Thu Jan 17 12:53:41 2019 -0500
+
+    updating title
+
+[33mcommit 195e30d04e7e21dc2f13b8f839d3b38e93ab35c2[m
+Merge: 2dd8ab8 cb02f3c
+Author: Peter Bell <PeterBell@users.noreply.github.com>
+Date:   Mon Nov 12 15:12:38 2018 -0700
+
+    Merge pull request #4 from sik-flow/master
+    
+    Update csv file and fix typos
+
+[33mcommit cb02f3ce639b99fae239182a6dfcc5bfa15391d9[m
+Author: sik-flow <jherman1199@gmail.com>
+Date:   Sat Nov 10 21:45:26 2018 -0600
+
+    Update csv file and fix typos
+
+[33mcommit 2dd8ab8d9c0d5a821d8dde58decee62950aed810[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Fri Oct 12 12:28:30 2018 -0600
+
+    Change instructions 5-8 becomes 5-9
+
+[33mcommit ab732d421a7452fb69a05770e7a903cf959bd4ab[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Wed Oct 3 12:53:17 2018 -0600
+
+    Add title and intro
+
+[33mcommit 28e7150be4f63a6bf2a38a2e30ee3d2e067573af[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Tue Oct 2 20:56:30 2018 -0400
+
+    fix readme solution
+
+[33mcommit ceff6a0bf331f21f02e4ad2590ac27f7ac558347[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Tue Oct 2 12:55:47 2018 -0600
+
+    Review readme
+
+[33mcommit e36b1569b3339d6df7cbba51fe276cf4984175e6[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Tue Oct 2 12:55:21 2018 -0600
+
+    Add gitignore
+
+[33mcommit 3b629e6f62ee7876f50292115203d4c738f54408[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Tue Oct 2 12:54:56 2018 -0600
+
+    Remove checkpoint from repo
+
+[33mcommit 68cab7ab09b36b5b0b33c1765827a34b56c831d1[m
+Author: mathymitchell <matt.mitchell@flatironschool.com>
+Date:   Thu Sep 27 15:19:12 2018 -0400
+
+    uploads
+
+[33mcommit d0c5815142f5065a25550ee1f0e343b1a2e2b6f9[m
+Author: mathymitchell <40181819+mathymitchell@users.noreply.github.com>
+Date:   Wed Sep 26 17:36:18 2018 -0400
+
+    Initial commit
